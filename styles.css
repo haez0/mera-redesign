@@ -376,17 +376,17 @@ p.star{
   }
 }
 
-.button .add-cart-button {
-  background-color: #626e76;
-  color: rgb(0, 0, 0);
-  text-decoration: none;
-  padding: 10px 20px;
+.navbar .logout-button {
+  background-color: #b3e5fc; /* Initial background color */
+  color: #333; /* Initial text color */
+  border: none;
+  outline: none;
+  padding: 8px 16px;
   border-radius: 5px;
-  transition: background-color 0.3s ease;
+  cursor: pointer;
 }
 
-.button .add-cart-button:hover {
-  background-color: #292b2d;
-  color: rgb(0, 0, 0);
+.navbar .logout-button:hover {
+  background-color: #4fc3f7; /* Background color on hover */
+  color: #fff; /* Text color on hover */
 }
-
