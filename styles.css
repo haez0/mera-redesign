@@ -54,7 +54,7 @@ nav ul li a:hover {
   padding: 8px 16px;
   border-radius: 5px;
   cursor: pointer;
-  float: right;
+  margin-left: 10px;
 }
 
 .navbar .logout-button:hover {
