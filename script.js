@@ -4,7 +4,7 @@ function login(event) {
   var password = document.getElementById("password").value;
 
   if (username === "user" && password === "pass") {
-      window.location.href = "homepage.html";
+      window.location.href = "home.html";
   } else {
       alert("Invalid username or password");
   }
