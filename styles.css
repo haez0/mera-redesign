@@ -16,7 +16,9 @@ nav {
 }
 
 .navbar {
+  position: relative;
   background-color: #f8f9fa !important;
+  padding: 10px 20px;
 }
 
 .navbar-brand img {
