@@ -375,3 +375,18 @@ p.star{
     padding: 6px 10px;
   }
 }
+
+.button .add-cart-button {
+    background-color: #110d21;
+    color: white;
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+.button .add-cart-button:hover {
+    background-color: #ff5733;
+    color: white;
+}
+
